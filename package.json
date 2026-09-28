@@ -1,0 +1,1 @@
+{ "name": "playground", "type": "module", "scripts": { "test": "node --test" } }
